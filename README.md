@@ -1,4 +1,5 @@
 # DevOpsAula02
-Keanu Reeves
+Keanu Reevess
 Denzel Washington
 Viola Davis
+Cris Rock
